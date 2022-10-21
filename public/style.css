@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 5rem;
+  color: tomato;
+}
